@@ -1,0 +1,13 @@
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Entities.dll
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Entities.pdb
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\obj\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.csproj.CoreCompileInputs.cache
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\obj\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.AssemblyInfoInputs.cache
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\obj\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.AssemblyInfo.cs
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\bin\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.deps.json
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\bin\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.runtimeconfig.json
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\bin\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.runtimeconfig.dev.json
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\bin\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.dll
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\obj\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.csprojResolveAssemblyReference.cache
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\bin\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.pdb
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\obj\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.dll
+C:\work\MyTask\VehicleSignals\VehicleSignalRandomGenerator\obj\Debug\netcoreapp2.0\VehicleSignalRandomGenerator.pdb

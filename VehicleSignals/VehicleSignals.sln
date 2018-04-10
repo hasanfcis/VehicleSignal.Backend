@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VehicleSignals.Domain", "VehicleSignals.Domain", "{9C9BD59B-F5DC-4601-A54E-5A7B1C1C253C}"
+	ProjectSection(SolutionItems) = preProject
+		test.txt = test.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Domain.Entities", "VehicleSignal.Domain.Entities\VehicleSignal.Domain.Entities.csproj", "{14A42B0A-2DEB-495D-8818-401D726BECC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Domain.Interfaces", "VehicleSignal.Domain.Interfaces\VehicleSignal.Domain.Interfaces.csproj", "{56113F75-2E1F-45E3-B856-0FB06A329ADC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Domain.Services", "VehicleSignal.Domain.Services\VehicleSignal.Domain.Services.csproj", "{87F23719-0D9E-4060-BE39-73FA46178369}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VehicleSignals.Infrastructure", "VehicleSignals.Infrastructure", "{9E8E9FD5-77B0-4396-A0B9-3178400559BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Infrastructure.Data", "VehicleSignal.Infrastructure.Data\VehicleSignal.Infrastructure.Data.csproj", "{5B4570A7-F58D-41B3-B0A5-A11B6DBBD949}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VehicleSignal.Web", "VehicleSignal.Web", "{CC1B2749-4245-4EAA-8A7B-0D656B37846D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Web.API", "VehicleSignal.Web.API\VehicleSignal.Web.API.csproj", "{26B8B2B3-6E75-4EC5-8AE1-659A8B634613}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignal.Domain.Services.Test", "VehicleSignal.Domain.Services.Test\VehicleSignal.Domain.Services.Test.csproj", "{4B613FB1-B03E-4621-B93A-4F061C5FFE77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VehicleSignal.RandomGenerator", "VehicleSignal.RandomGenerator", "{73CE505F-BE38-4F46-978C-E09FCEA7449A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleSignalRandomGenerator", "..\VehicleSignalRandomGenerator\VehicleSignalRandomGenerator.csproj", "{DCFB1E87-94D0-45FC-8076-860D5A4A500D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A42B0A-2DEB-495D-8818-401D726BECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A42B0A-2DEB-495D-8818-401D726BECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A42B0A-2DEB-495D-8818-401D726BECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A42B0A-2DEB-495D-8818-401D726BECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56113F75-2E1F-45E3-B856-0FB06A329ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56113F75-2E1F-45E3-B856-0FB06A329ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56113F75-2E1F-45E3-B856-0FB06A329ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56113F75-2E1F-45E3-B856-0FB06A329ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F23719-0D9E-4060-BE39-73FA46178369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F23719-0D9E-4060-BE39-73FA46178369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F23719-0D9E-4060-BE39-73FA46178369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F23719-0D9E-4060-BE39-73FA46178369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4570A7-F58D-41B3-B0A5-A11B6DBBD949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4570A7-F58D-41B3-B0A5-A11B6DBBD949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4570A7-F58D-41B3-B0A5-A11B6DBBD949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4570A7-F58D-41B3-B0A5-A11B6DBBD949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B8B2B3-6E75-4EC5-8AE1-659A8B634613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B8B2B3-6E75-4EC5-8AE1-659A8B634613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B8B2B3-6E75-4EC5-8AE1-659A8B634613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B8B2B3-6E75-4EC5-8AE1-659A8B634613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B613FB1-B03E-4621-B93A-4F061C5FFE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B613FB1-B03E-4621-B93A-4F061C5FFE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B613FB1-B03E-4621-B93A-4F061C5FFE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B613FB1-B03E-4621-B93A-4F061C5FFE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFB1E87-94D0-45FC-8076-860D5A4A500D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFB1E87-94D0-45FC-8076-860D5A4A500D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFB1E87-94D0-45FC-8076-860D5A4A500D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFB1E87-94D0-45FC-8076-860D5A4A500D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14A42B0A-2DEB-495D-8818-401D726BECC9} = {9C9BD59B-F5DC-4601-A54E-5A7B1C1C253C}
+		{56113F75-2E1F-45E3-B856-0FB06A329ADC} = {9C9BD59B-F5DC-4601-A54E-5A7B1C1C253C}
+		{87F23719-0D9E-4060-BE39-73FA46178369} = {9C9BD59B-F5DC-4601-A54E-5A7B1C1C253C}
+		{5B4570A7-F58D-41B3-B0A5-A11B6DBBD949} = {9E8E9FD5-77B0-4396-A0B9-3178400559BD}
+		{26B8B2B3-6E75-4EC5-8AE1-659A8B634613} = {CC1B2749-4245-4EAA-8A7B-0D656B37846D}
+		{4B613FB1-B03E-4621-B93A-4F061C5FFE77} = {9C9BD59B-F5DC-4601-A54E-5A7B1C1C253C}
+		{DCFB1E87-94D0-45FC-8076-860D5A4A500D} = {73CE505F-BE38-4F46-978C-E09FCEA7449A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D323551-70D0-4B27-A9AC-A233AB42807B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "VehicleSignal.Domain.Services/1.0.0": {
+        "dependencies": {
+          "VehicleSignal.Domain.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "VehicleSignal.Domain.Services.dll": {}
+        }
+      },
+      "VehicleSignal.Domain.Entities/1.0.0": {
+        "runtime": {
+          "VehicleSignal.Domain.Entities.dll": {}
+        }
+      },
+      "VehicleSignal.Domain.Interfaces/1.0.0": {
+        "dependencies": {
+          "VehicleSignal.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "VehicleSignal.Domain.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicleSignal.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleSignal.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VehicleSignal.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

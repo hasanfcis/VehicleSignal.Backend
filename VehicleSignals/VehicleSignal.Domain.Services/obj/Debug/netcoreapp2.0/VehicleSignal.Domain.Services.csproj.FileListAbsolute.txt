@@ -1,0 +1,13 @@
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.deps.json
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.dll
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.pdb
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\obj\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.csprojResolveAssemblyReference.cache
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\obj\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.csproj.CoreCompileInputs.cache
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\obj\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.AssemblyInfoInputs.cache
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\obj\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.AssemblyInfo.cs
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\obj\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.dll
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\obj\Debug\netcoreapp2.0\VehicleSignal.Domain.Services.pdb
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Entities.dll
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Interfaces.dll
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Interfaces.pdb
+C:\work\MyTask\VehicleSignals\VehicleSignals\VehicleSignal.Domain.Services\bin\Debug\netcoreapp2.0\VehicleSignal.Domain.Entities.pdb

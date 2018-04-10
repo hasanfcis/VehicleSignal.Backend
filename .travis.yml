@@ -1,0 +1,10 @@
+language: csharp
+solution: ./VehicleSignals/VehicleSignals.sln
+mono: none
+dotnet: 2.1.4
+install:
+  - dotnet restore ./VehicleSignals/VehicleSignals.sln
+ 
+script:
+  - dotnet test ./VehicleSignals/VehicleSignal.Domain.Services.Test/VehicleSignal.Domain.Services.Test.csproj
+  - dotnet build ./VehicleSignals/VehicleSignals.sln
