@@ -33,3 +33,6 @@ and change the set the port you want.
 - Moq
 - xUnit.net
 - Fluent Assertion
+
+# Architecture
+![vehiclesignalarchitecture](https://user-images.githubusercontent.com/9886479/38573826-7d8721c0-3cf7-11e8-9681-9279a45a9858.jpg)
